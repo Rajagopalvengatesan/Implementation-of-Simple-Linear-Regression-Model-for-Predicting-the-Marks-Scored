@@ -83,7 +83,8 @@ print("RMSE= ",rmse)
 ![WhatsApp Image 2024-08-28 at 08 59 17_51bae5e7](https://github.com/user-attachments/assets/271688dd-ec76-49c4-af04-5fb81e76a990)
 
 ### X and Y values
-![Uploading WhatsApp Image 2024-08-28 at 08.59.18_4cf4e98c.jpg…]()
+![WhatsApp Image 2024-08-28 at 08 59 18_4cf4e98c](https://github.com/user-attachments/assets/f7443fcf-1e02-464d-a0f0-c155945e48af)
+
 
 ### Predication values of X and Y
 ![WhatsApp Image 2024-08-28 at 08 59 18_c3f2daa3](https://github.com/user-attachments/assets/2dc8d606-c5d5-4970-92ad-114bb797e96a)
